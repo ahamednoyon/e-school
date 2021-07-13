@@ -1,0 +1,24 @@
+#header{
+    background: #F0FFF0;
+}
+
+.logo{
+    width: 120px;
+}
+
+.sing-in-btn{
+    border-radius: 25px;
+    background: #21B573;
+    color: #fff;
+    border: 1px solid transparent;
+    transition: .3s;
+}
+
+.sing-in-btn:hover{
+    background: transparent;
+    border: 1px solid #21B573;
+}
+
+.high-light{
+    color: #21B573;
+}
