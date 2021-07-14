@@ -22,3 +22,15 @@
 .high-light{
     color: #21B573;
 }
+
+.single-item{
+    background: #F0FFF0;
+    transition: .3s;
+
+}
+
+.single-item:hover{
+    background: #fff;
+    transform: scale(1.02);
+    box-shadow: 0px 10px 15px 0px lightgray !important;
+}
