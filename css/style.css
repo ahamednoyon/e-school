@@ -34,3 +34,11 @@
     transform: scale(1.02);
     box-shadow: 0px 10px 15px 0px lightgray !important;
 }
+
+.card-status p i{
+    margin-right: 10px;
+}
+
+.card{
+    border-radius: 20px;
+}
