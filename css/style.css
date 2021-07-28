@@ -43,6 +43,10 @@
     margin-right: 10px;
 }
 
+.card-status p{
+    font-size: 14px;
+}
+
 .card{
     border-radius: 20px;
 }
